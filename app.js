@@ -18,7 +18,7 @@ for (let i = 0; i < button.length; i++){
 
 
 function clearResult(){
-    result.value = '=';
+    result.value = '';
 }
 
 function calculateResult(){
